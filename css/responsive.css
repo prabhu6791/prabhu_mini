@@ -1,0 +1,84 @@
+ @media only screen and (max-width: 479px){
+    .signup-wrapper h1{
+        font-size: 20px;
+    }
+    .signup-wrapper h1 span{
+        font-size: 15px;
+    }
+    input[type="text"], input[type="password"], input[type="email"], input[type="tel"], input[type="date"], input[type="number"] {
+        width: 100%;
+        height: 35px;
+        border: 1px solid #cccccc;
+        border-radius: 5px;
+        padding: 0 15px;
+        font-size: 9px;
+        background-color: #f0eef0;
+    }
+    .country-wrapper, .tel-wrapper {
+        width: 115px;
+    }
+    input[type="tel"]{
+
+    }
+    .input-wrapper i {
+        position: absolute;
+        top: 13px;
+        right: 16px;
+        font-size: 11px;
+        color: #472449;
+    }
+    
+    .country-code {
+        height: 35px;
+        font-size: 9px;
+    }
+    .gender h4{
+        font-size: 20px;
+    }
+    .checkbox{
+        min-width: 16px;
+        min-height: 16px;
+    }
+    .checkbox label:after{
+        width: 11px;
+        height: 5px;
+        top: 3px;
+        left: 3px;
+    }
+    .checkmark{
+        height: 21px;
+        width: 21px;
+    }
+    .container-terms .checkmark:after{
+        left: 7px;
+        top: 3px;
+    }
+    .container-terms{
+        font-size: 13px;
+    }
+    .submit-btn{
+        height: 45px;
+        width: 151px;
+        font-size: 20px;
+    }
+    .forgot-password{
+        font-size: 13px;
+    }
+}
+@media only screen and (min-width: 480px) and (max-width: 767px){
+
+
+    
+}
+
+@media only screen and (min-width: 768px) and (max-width: 991px){
+
+
+    
+}
+
+@media only screen and (min-width: 992px) and (max-width: 1024px){
+
+
+    
+}
